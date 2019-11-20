@@ -22,3 +22,15 @@ C:\Users\usuario\Documents\TP1\TP WinForm App\TP WinForm App\obj\Debug\TP WinFor
 C:\Users\usuario\Documents\TP1\TP WinForm App\TP WinForm App\bin\Debug\TP WinForm App.exe.config
 C:\Users\usuario\Documents\TP1\TP WinForm App\TP WinForm App\bin\Debug\TP WinForm App.exe
 C:\Users\usuario\Documents\TP1\TP WinForm App\TP WinForm App\bin\Debug\TP WinForm App.pdb
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\bin\Debug\TP WinForm App.exe.config
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\bin\Debug\TP WinForm App.exe
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\bin\Debug\TP WinForm App.pdb
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP WinForm App.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP_WinForm_App.Form1.resources
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP_WinForm_App.ListadoPersonas.resources
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP_WinForm_App.ListadoObjetos.resources
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP_WinForm_App.Properties.Resources.resources
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP WinForm App.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP WinForm App.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP WinForm App.exe
+C:\Users\usuario\Documents\TP.NET\TP1_Dicomo\TP WinForm App\obj\Debug\TP WinForm App.pdb
